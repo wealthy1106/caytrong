@@ -1,0 +1,9 @@
+tài khoản: họ tên, địa chỉ, email,sdt, mk
+Sản phẩm: mã sản phẩm, tên, loại,xuất xứ,giá,đặc điểm, cách chế biến
+Loại sản phẩm: mã loại,tên,thông tin loại 
+Thông tin liên hệ: địa chỉ, email, sđt
+Thông tin giới thiệu: chữ,hình
+giỏ hàng: họ tên khách hàng, địa chỉ,email,sđt,hình ảnh 
+sản phẩm,số lượng sp,giá,xóa sp
+đơn hàng:
+họ
